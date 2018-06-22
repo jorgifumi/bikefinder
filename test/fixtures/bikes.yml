@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  make: MyString
+  family: MyString
+  tyre_size: MyString
+  color: MyString
+
+two:
+  make: MyString
+  family: MyString
+  tyre_size: MyString
+  color: MyString
