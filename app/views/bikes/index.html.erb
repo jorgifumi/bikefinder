@@ -16,7 +16,7 @@
   <tbody>
     <% @bikes.each do |bike| %>
       <tr>
-        <td><%= bike.make %></td>
+        <td><%= bike.make.name %></td>
         <td><%= bike.family %></td>
         <td><%= bike.tyre_size %></td>
         <td><%= bike.color %></td>
